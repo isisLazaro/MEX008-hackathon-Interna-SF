@@ -52,6 +52,8 @@ Se trato de que el diseño fuera fácil, intuitivo y de rápida accesibilidad, p
 
 - ### Modelo de negocio.
 
+   ![Modelo de negocio Pre-Supuesto](src/img/MODELOPNG.png)
+
    ![Modelo de negocio de Pre-Supuesto](docs/modeloNegocio.docx)
 
 - ### Sketch y/o prototipo (alta fidelidad , baja fidelidad o navegable.)
